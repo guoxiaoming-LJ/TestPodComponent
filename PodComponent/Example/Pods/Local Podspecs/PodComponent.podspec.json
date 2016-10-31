@@ -1,0 +1,22 @@
+{
+  "name": "PodComponent",
+  "version": "0.1.0",
+  "summary": "A short description of PodComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PodComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoxiaoming": "guoxiaoming@lianjia.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PodComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodComponent/Classes/**/*"
+}

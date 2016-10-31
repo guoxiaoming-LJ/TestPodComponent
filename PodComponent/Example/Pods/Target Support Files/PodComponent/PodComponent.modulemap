@@ -1,0 +1,6 @@
+framework module PodComponent {
+  umbrella header "PodComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}
